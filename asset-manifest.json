@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactest/static/css/main.b86b8ecf.chunk.css",
+    "main.js": "/reactest/static/js/main.546ba754.chunk.js",
+    "main.js.map": "/reactest/static/js/main.546ba754.chunk.js.map",
+    "runtime~main.js": "/reactest/static/js/runtime~main.9432b89b.js",
+    "runtime~main.js.map": "/reactest/static/js/runtime~main.9432b89b.js.map",
+    "static/css/2.266e55a5.chunk.css": "/reactest/static/css/2.266e55a5.chunk.css",
+    "static/js/2.784bd99d.chunk.js": "/reactest/static/js/2.784bd99d.chunk.js",
+    "static/js/2.784bd99d.chunk.js.map": "/reactest/static/js/2.784bd99d.chunk.js.map",
+    "index.html": "/reactest/index.html",
+    "precache-manifest.7f1281c0f562869f7a1e9b7ed12f434b.js": "/reactest/precache-manifest.7f1281c0f562869f7a1e9b7ed12f434b.js",
+    "service-worker.js": "/reactest/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/reactest/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.b86b8ecf.chunk.css.map": "/reactest/static/css/main.b86b8ecf.chunk.css.map"
+  }
+}
